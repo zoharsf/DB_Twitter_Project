@@ -1,0 +1,1 @@
+jdbc:mysql://localhost/TweetDB?user=TwitterProject&password=SgfghbREs46B42!3P
